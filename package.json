@@ -1,11 +1,11 @@
 {
-  "name": "psn-api",
+  "name": "devy-psn",
   "version": "0.0.1",
-  "description": "",
-  "main": "server.js",
+  "description": "An application that allows for collaborative coding with ease.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,13 @@
     "url": "https://github.com/davidacevedo/psn-api/issues"
   },
   "homepage": "https://github.com/davidacevedo/psn-api#readme",
+  "keywords": [
+    "psn",
+    "api",
+    "devy"
+  ]
   "dependencies": {
     "node-fetch": "^1.5.1"
-  }
+  },
+  "devDependencies": {}
 }
