@@ -1,6 +1,6 @@
 {
   "name": "devy-psn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library that allows you to access the playstation network APIs",
   "main": "index.js",
   "scripts": {
