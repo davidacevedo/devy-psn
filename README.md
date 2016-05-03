@@ -3,8 +3,7 @@ A library that allows you to access the playstation network APIs
 
 ## Usage
 ```javascript
-var DevyPsn = require('devy-psn');
-var devyPsn = new DevyPsn();
+var devyPsn = require('devy-psn');
 
 // First you need to grab the session cookie
 devyPsn.getAndSetCookieFromPSN('myPSNUsername', 'myPSNPassword').then(function() {
