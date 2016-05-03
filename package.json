@@ -1,7 +1,7 @@
 {
   "name": "devy-psn",
   "version": "0.0.1",
-  "description": "An application that allows for collaborative coding with ease.",
+  "description": "A library that allows you to access the playstation network APIs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,7 +21,7 @@
     "psn",
     "api",
     "devy"
-  ]
+  ],
   "dependencies": {
     "node-fetch": "^1.5.1"
   },
